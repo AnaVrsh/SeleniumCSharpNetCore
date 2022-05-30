@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BNglKRPgM9GMM6hwl3qiOaIefbf8LPPJaYaKX6G8ZchH/bizWTi8TvmVCjFmwmpGgfBB1UB3+4+hkn2rduq80A==",
+  "dgSpecHash": "yXjdvImgiS9Tpoe6Lba71ZzUmtexFluvvMCNqLgDCMnoTCV/3ImO68nPkjhQTwvSiCKvCCTQX+JVOSUkSn663A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ana\\source\\repos\\KalSobaki\\KalSobaki.csproj",
+  "projectFilePath": "C:\\Users\\Ana\\Documents\\GitHub\\SeleniumCSharpNetCore\\KalSobaki\\KalSobaki.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",

@@ -1362,11 +1362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\KalSobaki\\KalSobaki.csproj",
+      "projectUniqueName": "C:\\Users\\Ana\\Documents\\GitHub\\SeleniumCSharpNetCore\\KalSobaki\\KalSobaki.csproj",
       "projectName": "KalSobaki",
-      "projectPath": "C:\\Users\\Ana\\source\\repos\\KalSobaki\\KalSobaki.csproj",
+      "projectPath": "C:\\Users\\Ana\\Documents\\GitHub\\SeleniumCSharpNetCore\\KalSobaki\\KalSobaki.csproj",
       "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ana\\source\\repos\\KalSobaki\\obj\\",
+      "outputPath": "C:\\Users\\Ana\\Documents\\GitHub\\SeleniumCSharpNetCore\\KalSobaki\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
