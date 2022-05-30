@@ -1,0 +1,5 @@
+C:\Users\Ana\source\repos\KalSobaki\obj\Debug\net5.0\KalSobaki.csproj.AssemblyReference.cache
+C:\Users\Ana\source\repos\KalSobaki\obj\Debug\net5.0\KalSobaki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\source\repos\KalSobaki\obj\Debug\net5.0\KalSobaki.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\KalSobaki\obj\Debug\net5.0\KalSobaki.AssemblyInfo.cs
+C:\Users\Ana\source\repos\KalSobaki\obj\Debug\net5.0\KalSobaki.csproj.CoreCompileInputs.cache
